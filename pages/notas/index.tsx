@@ -47,6 +47,7 @@ export const getStaticProps: GetStaticProps = async (): Promise<
         props: {
             meta: {
                 title: "Mis Notas",
+                description: "Mis notas de los cursos de Matemáticas y Data Sience e Inteligencia Artificial",
                 showSidebar: false,
                 showToc: false,
                 showComments: false,
