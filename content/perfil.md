@@ -1,7 +1,6 @@
 ---
 title: Perfil
 date: 2023-09-16
-authors: "[laloroe]"
 ---
   
 
