@@ -16,6 +16,9 @@ const config = {
     text: "LaloRoe WebSite",
     //logo: "/assets/your-logo.svg", // optional
   },  
+    search: {
+        provider: "kbar",
+  },
 };
   
   export default config;
