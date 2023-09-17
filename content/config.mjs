@@ -12,6 +12,10 @@ const config = {
     //domain: "https://john.app/",
     // links to the pages you want to link to in the navbar
     navLinks: [{ href: "/perfil", name: "Perfil" },{ href: "/notas", name: "Mis Notas" },{ href: "/DS_IA", name: "Data Science e Inteligencia Artificial" },{ href: "/mas", name: "Más" },{ href: "/blog", name: "Blog" }],
-  };
+    navBarTitle: {
+    text: "LaloRoe WebSite",
+    //logo: "/assets/your-logo.svg", // optional
+  },  
+};
   
   export default config;
