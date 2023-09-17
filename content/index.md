@@ -1,6 +1,7 @@
 ---
 title: Mi blog personal y profesional 😎
 date: 2022-11-29
+description: En este blog publico temas sobre mi vida profesional.
 ---
 
 ![[1_NuTQuFZpT8RxNEtkSh3W5A.gif]]
