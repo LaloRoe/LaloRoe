@@ -1,8 +1,9 @@
 ---
-title: Certificados.
-date: 2023-09-17
-author: laloroe
+title: Some blog page
+date: 2022-12-12
+authors: [laloroe]
 ---
+
 # Escuela de Data Science en Platzi
 
 ## Fundamentos de Python
