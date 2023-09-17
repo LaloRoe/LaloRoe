@@ -22,7 +22,7 @@ Mi nombre es Eduardo Ortiz.  
 
     * Estudiantes de 3er semestre del posgrado **Maestría en Ciencias Físico Matemáticas** en la rama de **Matemáticas aplicadas**.
 
-    * Estudiante de la Escuela de **Data Science e Inteligencia Artificial** de [Platzi](Certificados) .
+    * Estudiante de la Escuela de **Data Science e Inteligencia Artificial** de [Platzi](Certificados.md) .
 
   ---
 ---
