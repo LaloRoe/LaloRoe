@@ -3,7 +3,7 @@ title: Mi blog personal y profesional 😎
 date: 2022-11-29
 ---
 
-![[rna.gif]]
+![[1_NuTQuFZpT8RxNEtkSh3W5A.gif]]
 
 <pre>
 print("Hola mundo!")
