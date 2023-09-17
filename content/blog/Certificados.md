@@ -5,7 +5,7 @@ authors:
   - laloroe
 ---
 
-# Escuela de Data Science en Platzi
+# Escuela de Data Science e Inteligencia Artificial en Platzi
 
 ## Fundamentos de Python
 
