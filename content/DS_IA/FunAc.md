@@ -6,7 +6,7 @@ La funciones de activación que se utilizan en redes neuronales artificiales son
 
 Podemos clasificar las funciones de activación en dos tipos: continuas y discretas.
 
-Las funciones de activación discretas arrojan un conjunto finito de valores. Diremos que son **binarias** si arrojan $0$ o $1$ y **bipolares** si arrojan $−1$ o $1$. Unaneurona que evalúa la suma ponderada en una función de activación binaria se le conoce como perceptrón.
+Las funciones de activación discretas arrojan un conjunto finito de valores. Diremos que son **binarias** si arrojan $0$ o $1$ y **bipolares** si arrojan $−1$ o $1$. Una neurona que evalúa la suma ponderada en una función de activación binaria se le conoce como perceptrón.
 
 En este trabajo vamos a utilizar funciones de activación continuas con dominio en los números reales y cuya imagen está contenida en los intervalos $[0, 1]$ o $[−1, 1]$, además, son no lineales, monótonas crecientes y derivables. Esto como veremos más adelante será de gran importancia para el entrenamiento de las redes neuronales, utilizando el algoritmo llamado **Propagación hacia atrás o Backpropagation**.
 
@@ -23,7 +23,7 @@ Las gráficas de las funciones sigmoidales tiene una característica forma de S.
 ![[sigmax4.png]]
 
 Podemos observar que conforme el valor de el parámetro s aumenta, la inclinación de la función en la vecindad con centro en cero aumenta, por lo que los valores de la función se asemejan a la función de activación de el perceptrón
-$$F(x)=\{\begin{matrix}
+$$F(x)=\begin{matrix}
 1 & \text{si} & x\geq0 \\
 0 & \text{si} & x<0
 \end{matrix}$$
