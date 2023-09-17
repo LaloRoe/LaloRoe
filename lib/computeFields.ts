@@ -43,7 +43,7 @@ const computeFields = async ({
     if (urlPath.startsWith("blog/")) return "blog";
     if (urlPath.startsWith("mas/")) return "blog";
     if (urlPath.startsWith("DS_IA/")) return "blog";
-    if (urlPath.startsWith("notas/")) return "blog";
+    if (urlPath.startsWith("proyectos/")) return "blog";
     if (urlPath.startsWith("matematicas/")) return "blog";
     // if (urlPath.startsWith("docs/")) return "docs";
     return "docs"; // TODO default layout from config?
