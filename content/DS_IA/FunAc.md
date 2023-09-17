@@ -23,7 +23,8 @@ Las gráficas de las funciones sigmoidales tiene una característica forma de S.
 ![[sigmax4.png]]
 
 Podemos observar que conforme el valor de el parámetro s aumenta, la inclinación de la función en la vecindad con centro en cero aumenta, por lo que los valores de la función se asemejan a la función de activación de el perceptrón
-
+$$F(x)=\{ 1  \text{ si }  x\geq0 \text{ , }
+0  \text{ si }  x<0$$
 En efecto, si $x > 0$ entonces
 $$\lim_{s\to\infty}\sigma(x;s)=1$$
 por otro lado, si $x < 0$
