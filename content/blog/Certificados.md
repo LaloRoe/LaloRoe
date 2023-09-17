@@ -1,7 +1,8 @@
 ---
-title: Some blog page
+title: Certificados
 date: 2022-12-12
-authors: [laloroe]
+authors:
+  - laloroe
 ---
 
 # Escuela de Data Science en Platzi
