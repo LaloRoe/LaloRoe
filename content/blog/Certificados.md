@@ -2,7 +2,7 @@
 title: Certificados
 date: 2022-12-12
 authors:
-  - laloroe
+  - Eduardo Ortiz Romero
 ---
 
 # Escuela de Data Science e Inteligencia Artificial en Platzi
