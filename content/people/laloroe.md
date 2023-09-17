@@ -1,6 +1,6 @@
 ---
 id: laloroe
-name: Eduardo Ortiz
+name: Eduardo Ortiz Romero
 avatar: /path/to/lalo.jpg
 ---
 # Perfil
