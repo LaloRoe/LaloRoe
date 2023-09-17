@@ -2,7 +2,7 @@
 title: Mis Playlist
 date: 2022-12-12
 authors:
-  - Eduardo Ortiz
+  - laloroe
 ---
 Mis rolas
 
