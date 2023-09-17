@@ -2,7 +2,7 @@
 title: Funciones de activación
 date: 2023-09-16
 authors:
-  - Eduardo Ortiz
+  - Eduardo Ortiz Romero
 ---
 # Introducción
 
