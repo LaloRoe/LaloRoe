@@ -19,10 +19,15 @@ Las funciones de activación continuas que utilizaremos en la red neuronal de la
 # Función sigmoidal.
 
 La función sigmoidal con parámetro $s > 0$ se define como:
+
 $$\sigma(x;s)=\frac{1}{1+e^{-sx}}$$
+
 Esta función tiene las siguientes características: es no lineal, es acotada $0 < \sigma(x; s) < 1$, monótona creciente y su comportamiento asintótico es
+
 $$\lim_{x\to\infty}\sigma(x;s)=1$$
+
 $$\lim_{x\to-\infty}\sigma(x;s)=0$$
+
 Las gráficas de las funciones sigmoidales tiene una característica forma de S.
 
 ![[sigmax4.png]]
