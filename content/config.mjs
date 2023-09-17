@@ -5,7 +5,7 @@ const config = {
     // adding a description helps with SEO
     description: "Mi blog personal y profesional",
     // author of site displayed on the bottom of your site
-    //author: "John",
+    author: "laloroe",
     // logo image
     //authorLogo: "/images/logo.svg",
     // url to author website
