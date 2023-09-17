@@ -1,5 +1,5 @@
 ---
 id: laloroe
 name: Eduardo Ortiz
-avatar: /public/assets/perfil.png
+avatar: /path/to/lalo.png
 ---
