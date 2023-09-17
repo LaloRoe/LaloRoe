@@ -2,6 +2,8 @@
 title: Funciones de activación
 date: 2023-09-16
 ---
+# Introducción
+
 La funciones de activación que se utilizan en redes neuronales artificiales son variadas y la elección que hagamos depende del problema que se planea resolver así como de la rapidez con la que con la que converge a la solución entre otros aspectos, como su comportamiento asintótico, si es acotada, derivable, etc.
 
 Podemos clasificar las funciones de activación en dos tipos: continuas y discretas.
@@ -12,7 +14,8 @@ En este trabajo vamos a utilizar funciones de activación continuas con dominio 
 
 Las funciones de activación continuas que utilizaremos en la red neuronal de la implementación son las siguientes:
 
-## Función sigmoidal.
+# Función sigmoidal.
+
 La función sigmoidal con parámetro $s > 0$ se define como:
 $$\sigma(x;s)=\frac{1}{1+e^{-sx}}$$
 Esta función tiene las siguientes características: es no lineal, es acotada $0 < \sigma(x; s) < 1$, monótona creciente y su comportamiento asintótico es
@@ -139,7 +142,7 @@ $$\lim_{x\to\infty}\frac{d\tanh(x)}{dx}=0$$
 
 $$\lim_{x\to-\infty}\frac{d\tanh(x)}{dx}=0$$
 
-## Función Gaussiana
+# Función Gaussiana
 
 La función Gaussiana se define como
 
