@@ -1,7 +1,8 @@
 ---
-title: Some blog page
+title: Mis Playlist
 date: 2022-12-12
-authors: [Eduardo Ortiz]
+authors:
+  - Eduardo Ortiz
 ---
 
 |**Name**|-|
