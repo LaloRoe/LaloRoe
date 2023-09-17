@@ -10,8 +10,6 @@ date: 2023-09-16
 
 ---
 
-  
-
 Hola!
 
 Mi nombre es Eduardo Ortiz.  
