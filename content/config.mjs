@@ -6,7 +6,7 @@ const config = {
     description: "Mi blog personal y profesional",
     // author of site displayed on the bottom of your site
     author: "laloroe",
-    //showComments: true,
+    showComments: true,
     // logo image
     //authorLogo: "/images/logo.svg",
     // url to author website
