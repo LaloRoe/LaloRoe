@@ -12,7 +12,6 @@ const config = {
         config: {
           repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
     },
-        pages: ["DS_IA"],
   },
     // logo image
     //authorLogo: "/images/logo.svg",
