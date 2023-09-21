@@ -23,18 +23,10 @@ P --> Q
 ```
 
 
-<script src="https://giscus.app/client.js"
-        data-repo="LaloRoe/LaloRoe"
-        data-repo-id="R_kgDOKUhCTA"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOKUhCTM4CZgUO"
-        data-mapping="/index"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="cobalt"
-        data-lang="es"
+<script src="https://utteranc.es/client.js"
+        repo="LaloRoe/LaloRoe"
+        issue-term="pathname"
+        theme="icy-dark"
         crossorigin="anonymous"
         async>
 </script>
