@@ -11,7 +11,7 @@ const config = {
     // url to author website
     //domain: "https://john.app/",
     // links to the pages you want to link to in the navbar
-    navLinks: [{ href: "/people/laloroe", name: "Perfil" },{ href: "/matematicas", name: "Matemáticas" },{ href: "/DS_IA", name: "Data Science e Inteligencia Artificial" },{ href: "/proyectos", name: "Proyectos" },{ href: "/mas", name: "Más" },{ href: "/blog", name: "Blog" }],
+    navLinks: [{ href: "/people/laloroe", name: "Perfil" },{ href: "/matematicas", name: "Matemáticas" },{ href: "/DS_IA", name: "Data Science e Inteligencia Artificial" },{ href: "/proyectos", name: "Proyectos" },{ href: "/blog", name: "Blog" }],
     navBarTitle: {
     text: "LaloRoe WebSite",
     //logo: "/assets/your-logo.svg", // optional
