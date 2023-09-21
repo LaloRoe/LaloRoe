@@ -15,7 +15,7 @@ print("Hola mundo!")
 ## Mis Playlist 🎶
 
 ![[giphy.gif]]
-Da click [**AQUÍ**](playlist) 🥳
+Da click [**AQUÍ**](blog/playlist.md) 🥳
 
 
 
