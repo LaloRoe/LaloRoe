@@ -8,12 +8,9 @@ const config = {
     author: "laloroe",
     showComments: true,
     comments: {
-    provider: "giscus",
-    config: {
-      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
-      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
-      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
-      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
+        provider: "utterances",
+        config: {
+          repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
     },
   },
     // logo image
