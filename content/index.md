@@ -15,7 +15,7 @@ print("Hola mundo!")
 ## Mis Playlist 🎶
 
 ![[giphy.gif]]
-[<span style="color: #FF0000;"> Escucha las listas aquí  </span>](playlist)
+Da click [**AQUÍ**](playlist) 🥳
 
 
 
