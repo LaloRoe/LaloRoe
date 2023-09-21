@@ -25,7 +25,7 @@ P --> Q
 
 <script src="https://utteranc.es/client.js"
         repo="LaloRoe/LaloRoe"
-        issue-term="pathname"
+        issue-term="/index"
         theme="icy-dark"
         crossorigin="anonymous"
         async>
