@@ -29,7 +29,7 @@ P --> Q
         data-repo-id="R_kgDOKUhCTA"
         data-category="Announcements"
         data-category-id="DIC_kwDOKUhCTM4CZgUO"
-        data-mapping="pathname"
+        data-mapping="/index"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
