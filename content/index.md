@@ -23,7 +23,6 @@ P --> Q
 ```
 
 
-
 <script src="https://giscus.app/client.js"
         data-repo="LaloRoe/LaloRoe"
         data-repo-id="R_kgDOKUhCTA"
