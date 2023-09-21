@@ -7,6 +7,15 @@ const config = {
     // author of site displayed on the bottom of your site
     author: "laloroe",
     showComments: true,
+    comments: {
+    provider: "giscus",
+    config: {
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
+      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
+      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
+    },
+  },
     // logo image
     //authorLogo: "/images/logo.svg",
     // url to author website
