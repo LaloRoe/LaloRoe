@@ -41,7 +41,6 @@ const computeFields = async ({
   const layout = (() => {
     if (frontMatter.layout) return frontMatter.layout;
     if (urlPath.startsWith("blog/")) return "blog";
-    if (urlPath.startsWith("mas/")) return "blog";
     if (urlPath.startsWith("DS_IA/")) return "blog";
     if (urlPath.startsWith("proyectos/")) return "blog";
     if (urlPath.startsWith("matematicas/")) return "blog";
