@@ -9,4 +9,4 @@ authors:
 
 ## Fundamentos de Python
 
-![[Fundamentos_de_Python.jpg]]
+[[Fundamentos_de_Python.jpg]]
