@@ -17,7 +17,11 @@ print("Hola mundo!")
 ![[giphy.gif]]
 
 
-<img src="assets/giphy.gif" href="www.facebook.com">
+<a href="/playlist">
+
+ <img src="/assets/giphy-gif">
+
+ </a>
 
 
 
