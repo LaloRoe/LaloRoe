@@ -14,18 +14,3 @@ Mis rolas
 | Electronic X | [**Link**](https://open.spotify.com/playlist/37i9dQZF1DWVXNkY9grbsT?si=6f74b66876ce4e58) |
 
 
-<script src="https://giscus.app/client.js"
-        data-repo="LaloRoe/LaloRoe"
-        data-repo-id="R_kgDOKUhCTA"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOKUhCTM4CZgUO"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="cobalt"
-        data-lang="es"
-        crossorigin="anonymous"
-        async>
-</script>
