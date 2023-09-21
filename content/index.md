@@ -17,7 +17,10 @@ print("Hola mundo!")
 ![[giphy.gif]]
 Da click [**AQUÍ**](blog/playlist) 🥳
 
-
+```mermaid 
+graph LR
+P --> Q 
+```
 
 
 
