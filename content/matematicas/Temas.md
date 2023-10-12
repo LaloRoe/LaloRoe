@@ -6,4 +6,3 @@ authors:
 ---
 # Materias
 
-# Tesis
