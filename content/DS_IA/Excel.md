@@ -31,9 +31,9 @@ Importar datos en Excel es una tarea fundamental para aquellos que deseen analiz
 
 **Paso 3:** En la sección “Obtener datos externos”, elige la opción “Desde otras fuentes” y selecciona el tipo de archivo o fuente de datos desde la cual deseas importar. Puedes importar desde un archivo de texto, una base de datos, una página web u otras fuentes.
 
-**Paso 4: **Si seleccionas un archivo de texto o una base de datos, Excel te guiará a través de un asistente para importar. Sigue las instrucciones en pantalla para especificar la ubicación del archivo o la conexión a la base de datos y selecciona las opciones de importación que desees.  
-**  
-Paso 5: **Si importas datos desde una página web, Excel te permitirá especificar la URL de la página y te mostrará una vista previa de los datos disponibles para importar. Selecciona las tablas o elementos que desees importar y sigue las instrucciones en pantalla para completar el proceso.
+**Paso 4:** Si seleccionas un archivo de texto o una base de datos, Excel te guiará a través de un asistente para importar. Sigue las instrucciones en pantalla para especificar la ubicación del archivo o la conexión a la base de datos y selecciona las opciones de importación que desees.  
+
+**Paso 5:** Si importas datos desde una página web, Excel te permitirá especificar la URL de la página y te mostrará una vista previa de los datos disponibles para importar. Selecciona las tablas o elementos que desees importar y sigue las instrucciones en pantalla para completar el proceso.
 
 **Paso 6**: Una vez que hayas especificado las opciones de importación y seleccionado los datos a importar, Excel te mostrará una vista previa de los datos. Revisa la vista previa para asegurarte de que los datos se importen correctamente.
 
@@ -47,4 +47,4 @@ Cada línea representa una fila de datos, y los valores de cada columna están s
 
 **IMPORTANTE: No contiene información sobre la estructura de los datos ni ningún formato de estilo o diseño.**
 
-**Es especialmente útil cuando se necesita transferir grandes cantidades de datos entre diferentes sistemas, **como bases de datos, hojas de cálculo o aplicaciones de análisis. **También es común utilizar archivos CSV para realizar copias de seguridad **de datos, compartir información con otras personas o importar/exportar datos a y desde software como Microsoft Excel, Google Sheets u otras herramientas de análisis de datos.
+Es especialmente útil cuando se necesita transferir grandes cantidades de datos entre diferentes sistemas, como bases de datos, hojas de cálculo o aplicaciones de análisis. También es común utilizar archivos CSV para realizar copias de seguridad de datos, compartir información con otras personas o importar/exportar datos a y desde software como Microsoft Excel, Google Sheets u otras herramientas de análisis de datos.
