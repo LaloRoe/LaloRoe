@@ -10,7 +10,7 @@ authors:
 ![[Pasted image 20231018062840.png]]
 ## Más atajos
 
-![[AtajosExcel.pdf]]
+
 ## Teclas de Función
 ![[Pasted image 20231018063231.png]]
 ## Visualizar atajos
