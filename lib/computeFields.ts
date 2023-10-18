@@ -42,8 +42,8 @@ const computeFields = async ({
     if (frontMatter.layout) return frontMatter.layout;
     if (urlPath.startsWith("blog/")) return "blog";
     if (urlPath.startsWith("DS_IA/")) return "blog";
-    if (urlPath.startsWith("proyectos/")) return "blog";
     if (urlPath.startsWith("matematicas/")) return "blog";
+    if (urlPath.startsWith("negocios/")) return "blog";
     // if (urlPath.startsWith("docs/")) return "docs";
     return "docs"; // TODO default layout from config?
   })();

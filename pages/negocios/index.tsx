@@ -26,7 +26,7 @@ export const getStaticProps: GetStaticProps = async (): Promise<
     GetStaticPropsResult<BlogIndexPageProps>
 > => {
     const mddb = await clientPromise;
-    const blogFiles = await mddb.getFiles({ folder: "proyectos" });
+    const blogFiles = await mddb.getFiles({ folder: "negocios" });
     const blogsMetadataPromises = blogFiles.map(async (b) => {
         const source = fs.readFileSync(b.file_path, { encoding: "utf-8" });
 
@@ -46,12 +46,12 @@ export const getStaticProps: GetStaticProps = async (): Promise<
     return {
         props: {
             meta: {
-                title: "Mis proyectos de Data Science e Inteligencia Artificial",
+                title: "Teoría de Negocios",
                 showSidebar: false,
                 showToc: false,
                 showComments: false,
                 showEditLink: false,
-                urlPath: "/proyectos",
+                urlPath: "/negocios",
             },
             blogs: blogsList,
         },

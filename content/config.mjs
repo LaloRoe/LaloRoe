@@ -1,9 +1,9 @@
 //export default {};
 const config = {
     // title will be displayed on the top of your site
-    title: "LaloRoe.com",
+    title: "MisNotas.com",
     // adding a description helps with SEO
-    description: "Mi blog personal y profesional",
+    description: "Mi Notas de Formación Profecional",
     // author of site displayed on the bottom of your site
     author: "laloroe",
     showComments: true,
@@ -18,9 +18,9 @@ const config = {
     // url to author website
     //domain: "https://john.app/",
     // links to the pages you want to link to in the navbar
-    navLinks: [{ href: "/people/laloroe", name: "Perfil" },{ href: "/matematicas", name: "Matemáticas" },{ href: "/DS_IA", name: "Data Science e Inteligencia Artificial" },{ href: "/proyectos", name: "Proyectos" },{ href: "/blog", name: "Blog" }],
+    navLinks: [{ href: "/people/laloroe", name: "Autor" },{ href: "/matematicas", name: "Matemáticas" },{ href: "/DS_IA", name: "Data Science e Inteligencia Artificial" },{ href: "/negocios", name: "Negocios" },{ href: "/blog", name: "Blog" }],
     navBarTitle: {
-    text: "LaloRoe WebSite",
+    text: "Mis Notas",
     //logo: "/assets/your-logo.svg", // optional
   },  
     search: {
