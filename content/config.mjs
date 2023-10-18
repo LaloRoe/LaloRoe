@@ -12,6 +12,7 @@ const config = {
         config: {
           repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
     },
+        analytics: 'G-VNESJ0HCCY',
   },
     // logo image
     //authorLogo: "/images/logo.svg",
