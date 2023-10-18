@@ -5,7 +5,7 @@ authors:
   - Eduardo Ortiz Romero
 ---
 
- "Si no puedes medirlo no puedes mejorarlo"
+*"Si no puedes medirlo no puedes mejorarlo"* *
 # Diccionario visual
 
 * **ROI (Return on Investment)**: Retorna sobre la inversión. Es una métrica que mide la eficiencia de una inversión. Se calcula dividiendo la ganancia neta de la inversión por el costo de la inversión. Se expresa generalmente como un porcentaje.
@@ -29,24 +29,27 @@ authors:
 * **Gross Profit**: Beneficio bruto. Es la diferencia entre los ingresos y el costo de los bienes vendidos (sin tener en cuenta otros gastos operativos)
 ## Ingresos y Utilidad
 
-	Ingresos = Valor del producto o servicio * Número de unidades vendidas
+<pre>
+Ingresos = Valor del producto o servicio * Número de unidades vendidas
+</pre>
 
-	Utilidad Real = Ingresos Totales - Costos Totales
-
+<pre>
+Utilidad Real = Ingresos Totales - Costos Totales
+</pre>
 ## Life Time Value LTV
 
 **Valor del tiempo de vida del cliente. **
 
 Valor total que un cliente generará a lo largo del tiempo.
-
-	Tiempo promedio de uso * Ingresos promedios por cliente
-
+<pre>
+Tiempo promedio de uso * Ingresos promedios por cliente
+</pre>
 ## Customer Acquisition Cost CAC
 
 **Costo de Adquisición del Cliente**
-
-	Total de Gastos de Adquisición de Clientes / Número de Nuevos Clientes Adquiridos
-
+<pre>
+Total de Gastos de Adquisición de Clientes / Número de Nuevos Clientes Adquiridos
+</pre>
 ## LTV:CAC
 
 El valor debe ser
@@ -68,34 +71,41 @@ $$\frac{0.11*100}{0.91}=12\%$$
 **Ingresos recurrentes mensuales**
 
 Usadas principalmente por empresas con modelo de negocios Software as a Service (SaaS)
-
-	Número de usuarios * precio al mes/Cuentas activas
-
+<pre>
+Número de usuarios * precio al mes/Cuentas activas
+</pre>
 ## Return on Investment ROI
 
 **Retorno de inversión**
 Es una métrica que se utiliza para evaluar la rentabilidad de una inversión o proyecto. En términos sencillos, el ROI nos muestra cuánto dinero se ha ganado o perdido en relación con la cantidad de dinero invertida.
-
-	(Ganancias - Costo de la inversión) / Costo de la inversión *100
-
+<pre>
+(Ganancias - Costo de la inversión) / Costo de la inversión *100
+</pre>
 ## CHURN
 
 **Cantidad de clientes que pierdes en el tiempo**
-
-	Clientes perdidos/Clientes iniciales
-
+<pre>
+Clientes perdidos/Clientes iniciales
+</pre>
 **Es mejor retener clientes que adquirir nuevos**
 
 ## Blended y Paid CAC
 
 * Paid CAC : Costos de Marketing, Clientes generados
-	Costos / Clientes generados
+<pre>
+Costos / Clientes generados
+</pre>
 * Blended CAC:  Costos de Marketing, Contenido, Ventas (Sin incluir salarios), Clientes generados (pagos y orgánicos)
-	Costos / Clientes generados
-
+<pre>
+Costos / Clientes generados
+</pre>
 ## Utilidad Neta y Utilidad Bruta
 
 * Utilidad Bruta
-	*Ingresos totales - Costos de Producción
+<pre>
+Ingresos totales - Costos de Producción
+</pre>
 * Utilidad Neta (Net Profit)
-	Utilidad Bruta - Gastos adicionales
+<pre>
+Utilidad Bruta - Gastos adicionales
+</pre>
