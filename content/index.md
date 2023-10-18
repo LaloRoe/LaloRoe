@@ -9,9 +9,9 @@ description: En este blog publico temas sobre mi vida profesional.
 </center>
 
 <center>
-<div className="text-blue-1000"> MisNotas.com es un proyecto personal donde publico los apuntes de mi formación en Matemáticas, Negocios y Data Science post ESFM, para disponer de ellos en cualquier sitio con acceso a internet.</div>
+<div className="text-green-500"> MisNotas.com es un proyecto personal donde publico los apuntes de mi formación en Matemáticas, Negocios y Data Science post ESFM, para disponer de ellos en cualquier sitio con acceso a internet.</div>
 </center>
-
+<br>
 ```mermaid
 graph LR 
 MisNotas.com --> Matemáticas & DataScience & IA & Negocios 
