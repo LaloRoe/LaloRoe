@@ -83,6 +83,7 @@ authors:
 ## Teclas de Función
 ![[Pasted image 20231018063231.png]]
 ## Visualizar atajos
+
 En Excel presionamos la tecla 
 
 <pre>
