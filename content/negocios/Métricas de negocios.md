@@ -9,41 +9,55 @@ authors:
 *"Si no puedes medirlo no puedes mejorarlo"* *
 </center>
 ---
-# Ingresos y Utilidad
+# Introducción
+* **Ingresos**: Los ingresos representan el total de las ventas generadas por un negocio, producto o servicio. Se calculan multiplicando el valor de cada producto o servicio vendido por la cantidad de unidades vendidas.
 
 <pre>
-Ingresos = Valor del producto o servicio * Número de unidades vendidas
+Valor del producto o servicio * Número de unidades vendidas
 </pre>
 
+* **Costos Totales**: Los costos totales son el conjunto de gastos necesarios para crear y ofrecer el producto o servicio. Incluyen costos directos e indirectos, como materias primas, mano de obra, gastos de producción, etc.
+
+* **Utilidad Real**: La utilidad real representa la verdadera ganancia que se obtiene después de restar los costos totales de los ingresos totales.
+
 <pre>
-Utilidad Real = Ingresos Totales - Costos Totales
+Ingresos Totales - Costos Totales
 </pre>
-# Life Time Value LTV
+
+# LTV - Life Time Value 
 
 **Valor del tiempo de vida del cliente.**
 
-Valor total que un cliente generará a lo largo del tiempo.
+Valor total que un cliente generará a lo largo del tiempo. Es una predicción del beneficio neto atribuido a la relación completa con un cliente.
+
 <pre>
 Tiempo promedio de uso * Ingresos promedios por cliente
 </pre>
-# Customer Acquisition Cost CAC
+# CAC -  Customer Acquisition Cost
 
-**Costo de Adquisición del Cliente**
+**Costo de Adquisición del Cliente.**
+
+Es el costo asociado con la adquisición de un nuevo cliente. Incluye gastos como publicidad, salarios de ventas y marketing, etc.
+
 <pre>
 Total de Gastos de Adquisición de Clientes / Número de Nuevos Clientes Adquiridos
 </pre>
 
 # LTV:CAC
 
+Relación entre el valor de tiempo de vida del cliente y el costo de adquisición de cliente. Esta relación ayuda a entender cuánto estás gastando para adquirir un cliente en comparación con el valor que ese cliente trae a tu negocio a lo largo del tiempo.
+
 El valor debe ser
 $$\frac{LTV}{CAC}>1$$
 
-Significa que por cada $ $1$ invertido recibes $ $\frac{LTV}{CAC}$ 
+Significa que por cada /$ $1$ invertido recibes /$ $\frac{LTV}{CAC}$ 
 
 
 # Índice Big Mac 
 
 **Comparación de cambio usando el valor de una Big Mac**
+
+Es un índice creado por “The Economist” para medir el poder adquisitivo en diferentes países utilizando el precio de un Big Mac como referencia. Se basa en la teoría de la paridad del poder adquisitivo.
 
 Ejemplo:
 Big Mac Alemania / EEUU
