@@ -1,10 +1,11 @@
 ---
 title: Métricas de negocios
+date: 2023-10-17
 authors:
   - Eduardo Ortiz Romero
-date: 2023-10-17
 ---
-	"Si no puedes medirlo no puedes mejorarlo"
+
+ "Si no puedes medirlo no puedes mejorarlo"
 # Diccionario visual
 * **ROI (Return on Investment)**: Retorna sobre la inversión. Es una métrica que mide la eficiencia de una inversión. Se calcula dividiendo la ganancia neta de la inversión por el costo de la inversión. Se expresa generalmente como un porcentaje.
 
