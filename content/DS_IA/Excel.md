@@ -15,7 +15,11 @@ authors:
 ![[Pasted image 20231018063231.png]]
 ## Visualizar atajos
 En Excel presionamos la tecla 
-	Alt
+
+<pre>
+Alt
+</pre>
+
 ![[Pasted image 20231018063544.png]]
 # Importar datos a Excel
 
