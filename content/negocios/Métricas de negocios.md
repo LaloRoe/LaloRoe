@@ -63,7 +63,7 @@ Big Mac Alemania (4 dólares) / EEUU (5 dólares)
 $$\frac{4}{5}=0.8$$
 Si la tasa de cambio es $0.91$ euros por dólar, entonces el euro está devaluado
 $$\frac{0.11*100}{0.91}=12\%$$
-# Mounthly Recurrent Revenue MRR
+# MRR - Mounthly Recurrent Revenue
 
 **Ingresos recurrentes mensuales.**
 
@@ -108,7 +108,7 @@ Costos / Clientes generados
 <pre>
 Costos / Clientes generados
 </pre>
-## Utilidad Neta y Utilidad Bruta
+# Utilidad Neta y Utilidad Bruta
 
 * **Utilidad Bruta**
 
