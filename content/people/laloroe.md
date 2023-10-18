@@ -5,7 +5,7 @@ avatar: /path/to/lalo.jpg
 ---
 # Perfil
 
-![[perfil.png]]
+![[perfil_animation.png]]
 
   
 
@@ -13,13 +13,12 @@ avatar: /path/to/lalo.jpg
 
 Hola!
 
-Mi nombre es Eduardo Ortiz.  
+Mi nombre es Eduardo O.R.  
 
 * **Contacto**: mrlalo_roe@outlook.com
 
 * **Estudios**
 	* Egresado de la Lic. en Física y Matemáticas de la [ESFM](https://www.esfm.ipn.mx) del IPN.
-	* Estudiantes de 3er semestre del posgrado Maestría en Ciencias Físico Matemáticas en la rama de Matemáticas aplicadas.
   
 ---
 ---
