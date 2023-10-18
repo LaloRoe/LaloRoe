@@ -1,7 +1,7 @@
 ---
 id: laloroe
 name: Eduardo Ortiz Romero
-avatar: /path/to/lalo.jpg
+avatar: /path/to/lalo_sin_fondo.png
 ---
 # Perfil
 
