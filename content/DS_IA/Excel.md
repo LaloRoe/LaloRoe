@@ -45,6 +45,6 @@ Un archivo CSV (Comma-Separated Values, por sus siglas en inglés) es un tipo de
 
 Cada línea representa una fila de datos, y los valores de cada columna están separados por un delimitador, generalmente una coma (,). Sin embargo, también es posible utilizar otros delimitadores, como punto y coma ( ; ) o tabulaciones. 😃
 
-**IMPORTANTE: No contiene información sobre la estructura de los datos ni ningún formato de estilo o diseño.**
+<div className="text-red-500"> IMPORTANTE: No contiene información sobre la estructura de los datos ni ningún formato de estilo o diseño.</div>
 
 Es especialmente útil cuando se necesita transferir grandes cantidades de datos entre diferentes sistemas, como bases de datos, hojas de cálculo o aplicaciones de análisis. También es común utilizar archivos CSV para realizar copias de seguridad de datos, compartir información con otras personas o importar/exportar datos a y desde software como Microsoft Excel, Google Sheets u otras herramientas de análisis de datos.
