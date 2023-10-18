@@ -8,25 +8,25 @@ authors:
 *"Si no puedes medirlo no puedes mejorarlo"* *
 # Diccionario visual
 
-* **ROI (Return on Investment)**: Retorna sobre la inversión. Es una métrica que mide la eficiencia de una inversión. Se calcula dividiendo la ganancia neta de la inversión por el costo de la inversión. Se expresa generalmente como un porcentaje.
+**ROI (Return on Investment)**: Retorna sobre la inversión. Es una métrica que mide la eficiencia de una inversión. Se calcula dividiendo la ganancia neta de la inversión por el costo de la inversión. Se expresa generalmente como un porcentaje.
 
-* **Churn**: Tasa de abandono o deserción. Representa el porcentaje de clientes que dejan de usar un producto o servicio en un período determinado.
+**Churn**: Tasa de abandono o deserción. Representa el porcentaje de clientes que dejan de usar un producto o servicio en un período determinado.
 
-* **LTV (Life Time Value)**: Valor del tiempo de vida del cliente. Es una predicción del beneficio neto atribuido a la relación completa con un cliente.
+**LTV (Life Time Value)**: Valor del tiempo de vida del cliente. Es una predicción del beneficio neto atribuido a la relación completa con un cliente.
 
-* **LTV:CAC**: Relación entre el valor de tiempo de vida del cliente y el costo de adquisición de cliente. Esta relación ayuda a entender cuánto estás gastando para adquirir un cliente en comparación con el valor que ese cliente trae a tu negocio a lo largo del tiempo.
+**LTV:CAC**: Relación entre el valor de tiempo de vida del cliente y el costo de adquisición de cliente. Esta relación ayuda a entender cuánto estás gastando para adquirir un cliente en comparación con el valor que ese cliente trae a tu negocio a lo largo del tiempo.
 
-* **Net Profit**: Beneficio neto. Es la cantidad de ingresos que queda después de deducir todos los gastos, impuestos y costos de un negocio.
+**Net Profit**: Beneficio neto. Es la cantidad de ingresos que queda después de deducir todos los gastos, impuestos y costos de un negocio.
 
-* **CAC (Costo de Adquisición del Cliente)**: Es el costo asociado con la adquisición de un nuevo cliente. Incluye gastos como publicidad, salarios de ventas y marketing, etc.
+**CAC (Costo de Adquisición del Cliente)**: Es el costo asociado con la adquisición de un nuevo cliente. Incluye gastos como publicidad, salarios de ventas y marketing, etc.
 
-* **Paid CAC**: Costo de adquisición del cliente a través de canales pagados. Se refiere específicamente a los costos incurridos al adquirir clientes a través de métodos de publicidad pagada.
+**Paid CAC**: Costo de adquisición del cliente a través de canales pagados. Se refiere específicamente a los costos incurridos al adquirir clientes a través de métodos de publicidad pagada.
 
-* **Blended CAC**: Es una combinación del CAC para diferentes canales, tanto pagados como orgánicos. Es útil para tener una visión general del costo promedio de adquisición por cliente.
+**Blended CAC**: Es una combinación del CAC para diferentes canales, tanto pagados como orgánicos. Es útil para tener una visión general del costo promedio de adquisición por cliente.
 
-* **Big Mac Index**: Es un índice creado por “The Economist” para medir el poder adquisitivo en diferentes países utilizando el precio de un Big Mac como referencia. Se basa en la teoría de la paridad del poder adquisitivo.
+**Big Mac Index**: Es un índice creado por “The Economist” para medir el poder adquisitivo en diferentes países utilizando el precio de un Big Mac como referencia. Se basa en la teoría de la paridad del poder adquisitivo.
 
-* **Gross Profit**: Beneficio bruto. Es la diferencia entre los ingresos y el costo de los bienes vendidos (sin tener en cuenta otros gastos operativos)
+**Gross Profit**: Beneficio bruto. Es la diferencia entre los ingresos y el costo de los bienes vendidos (sin tener en cuenta otros gastos operativos)
 ## Ingresos y Utilidad
 
 <pre>
@@ -38,7 +38,7 @@ Utilidad Real = Ingresos Totales - Costos Totales
 </pre>
 ## Life Time Value LTV
 
-**Valor del tiempo de vida del cliente. **
+**Valor del tiempo de vida del cliente.**
 
 Valor total que un cliente generará a lo largo del tiempo.
 <pre>
@@ -91,21 +91,21 @@ Clientes perdidos/Clientes iniciales
 
 ## Blended y Paid CAC
 
-* Paid CAC : Costos de Marketing, Clientes generados
+Paid CAC : Costos de Marketing, Clientes generados
 <pre>
 Costos / Clientes generados
 </pre>
-* Blended CAC:  Costos de Marketing, Contenido, Ventas (Sin incluir salarios), Clientes generados (pagos y orgánicos)
+Blended CAC:  Costos de Marketing, Contenido, Ventas (Sin incluir salarios), Clientes generados (pagos y orgánicos)
 <pre>
 Costos / Clientes generados
 </pre>
 ## Utilidad Neta y Utilidad Bruta
 
-* Utilidad Bruta
+Utilidad Bruta
 <pre>
 Ingresos totales - Costos de Producción
 </pre>
-* Utilidad Neta (Net Profit)
+Utilidad Neta (Net Profit)
 <pre>
 Utilidad Bruta - Gastos adicionales
 </pre>
