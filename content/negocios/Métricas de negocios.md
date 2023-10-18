@@ -72,7 +72,7 @@ Usadas principalmente por empresas con modelo de negocios Software as a Service 
 <pre>
 Número de usuarios * precio al mes/Cuentas activas
 </pre>
-# Return on Investment ROI
+# ROI - Return on Investment
 
 **Retorno de inversión.**
 
