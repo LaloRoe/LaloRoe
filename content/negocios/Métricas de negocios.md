@@ -29,3 +29,10 @@ Tiempo promedio de uso * Ingresos promedios por cliente
 <pre>
 Total de Gastos de Adquisición de Clientes / Número de Nuevos Clientes Adquiridos
 </pre>
+
+# LTV:CAC
+
+El valor debe ser
+$$\frac{LTV}{CAC}>1$$
+
+Significa que por cada $\$1$ invertido recibes $\$\frac{LTV}{CAC}$ 
