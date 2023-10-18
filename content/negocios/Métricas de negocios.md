@@ -35,4 +35,4 @@ Total de Gastos de Adquisición de Clientes / Número de Nuevos Clientes Adquiri
 El valor debe ser
 $$\frac{LTV}{CAC}>1$$
 
-Significa que por cada $\$1$ invertido recibes $\$\frac{LTV}{CAC}$ 
+Significa que por cada $ $1$ invertido recibes $ $\frac{LTV}{CAC}$ 
