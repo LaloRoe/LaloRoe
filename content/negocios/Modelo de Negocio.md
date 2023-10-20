@@ -3,6 +3,7 @@ title: Modelo de Negocio
 date: 2023-10-18
 authors:
   - Eduardo Ortiz Romero
+showSidebar: true
 ---
 # Plantear una idea de negocio al evaluar 5 aspectos.
 
