@@ -118,3 +118,16 @@ Cada línea representa una fila de datos, y los valores de cada columna están s
 <div className="text-red-500"> IMPORTANTE: No contiene información sobre la estructura de los datos ni ningún formato de estilo o diseño.</div>
 
 Es especialmente útil cuando se necesita transferir grandes cantidades de datos entre diferentes sistemas, como bases de datos, hojas de cálculo o aplicaciones de análisis. También es común utilizar archivos CSV para realizar copias de seguridad de datos, compartir información con otras personas o importar/exportar datos a y desde software como Microsoft Excel, Google Sheets u otras herramientas de análisis de datos.
+
+# Rangos
+
+**Los rangos** son un conjunto de celdas que podemos seleccionar y designarle un nombre en nuestro documento de Excel. Esto nos permite poder llamarlo, incluirlo dentro de una función o encontrarlo de una manera más sencilla, lo cual resulta útil cuando trabajamos con mucha información o tablas muy grandes.
+
+En la ficha de Fórmulas, sección Nombres Definidos, tenemos la opción de **Administrador de Nombres**, que nos va a permitir visualizar los Rangos que hemos asignado, el valor, y en qué ámbito está. Justo acá podemos Asignar nuevo rango, modificar y eliminar.
+
+Igualmente en esa ficha y sección, se muestran las opciones de **Asignar un nombre** (para nombrar el rango), **Utilizar en la fórmula** (para llamar nuestro rango) y **Crear desde la selección** (para poder delimitar nuestro rango en las celdas).
+
+![[Pasted image 20231018140053.png]]
+# Ocultar y mostrar columnas, filas y hojas
+
+Atajo para ocultar Ctrl + 9 (para filas) y Ctrl + 0 para columnas. para mostrar shft + Ctrl 9 (filas) y Shift + Ctrl + 0 para columnas
