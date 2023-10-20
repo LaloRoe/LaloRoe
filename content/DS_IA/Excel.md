@@ -3,6 +3,7 @@ title: Excel
 date: 2023-10-18
 authors:
   - Eduardo Ortiz Romero
+showSidebar: true
 ---
 # Atajos
 
