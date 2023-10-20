@@ -2,6 +2,7 @@
 title: Bienvenido a mi blog de Notas Académicas😎
 date: 2022-11-29
 description: En este blog publico temas sobre mi vida profesional.
+showSidebar: "false"
 ---
 ![[lalo_laptop.png]]
 <center>
