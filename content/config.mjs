@@ -6,6 +6,7 @@ const config = {
     description: "Mi Notas de Formación Profecional",
     // author of site displayed on the bottom of your site
     author: "laloroe",
+    showSidebar: true,
     showComments: true,
     comments: {
         provider: "utterances",
