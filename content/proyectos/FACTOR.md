@@ -5,7 +5,8 @@ authors:
   - Eduardo Ortiz Romero
 showSidebar: false
 ---
-![[FACTOR.png]]
+
+![[FACTOR_logo.png]]
 
 **FACTOR** es un proyecto de negocio enfocado a brindar apoyo académico a estudiantes de secundaria, preparatoria y universidad.
 
