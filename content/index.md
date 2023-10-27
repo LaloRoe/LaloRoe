@@ -5,6 +5,14 @@ description: En este blog publico temas sobre mi vida profesional.
 showSidebar: false
 showToc: false
 ---
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MisNotas.com</title>
+  <link rel="stylesheet" media="all" href="style.css" />
+</head>
+
 ![[lalo_laptop.png]]
 <center>
 <div className="text-green-500"> Hola mundo!</div>
