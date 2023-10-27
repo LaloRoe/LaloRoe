@@ -8,17 +8,10 @@ showToc: false
   ![[lalo_laptop_sin_fondo.png]]
 
 <center>
-<div className="text-green-500"> MisNotas.com es un proyecto personal donde publico los apuntes de mi formación en Matemáticas, Negocios y Data Science, para disponer de ellos en cualquier sitio con acceso a internet.</div>
+<div className="text-green-500"> MisNotas.com es un proyecto personal donde publico los apuntes de Matemáticas, Negocios y Data Science, para disponer de ellos en cualquier sitio con acceso a internet.</div>
 </center>
 
    <right>
 <div className="text-green-500"> Lalo Roe</div>
 </right>
 ---
-```mermaid
-
-graph LR
-
-MisNotas.com --> Matemáticas & DataScience & IA & Negocios
-
-```
