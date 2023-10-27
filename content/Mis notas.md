@@ -9,7 +9,7 @@ showSidebar: true
 Aquí puedes encontrar algunas de **mis notas** de las áreas de estudio que más me apasionan, esto de forma profesional, en la sección Blog tengo notas que arte, teatro, música, etc. que al igual me apasionan pero no de forma profesional. 
 ## Temas
 
-* **Matemáticas**
+* [[Matemáticas]](\matematicas) 
 * **Ciencia de Datos**
 * **Inteligencia Artificial**
 * **Negocios**
