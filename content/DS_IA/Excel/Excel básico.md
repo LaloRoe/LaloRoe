@@ -152,3 +152,4 @@ Seleccionar columnas o filas, ir a la ficha de **Datos** en *Esquema*, dar clic 
 Dar configuración
 ![[Pasted image 20231023232818.png]]
 
+Hola
