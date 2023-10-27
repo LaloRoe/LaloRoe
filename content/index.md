@@ -6,13 +6,6 @@ showSidebar: false
 showToc: false
 ---
 
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MisNotas.com</title>
-  <link rel="stylesheet" media="all" href="style.css" />
-
-
 ![[lalo_laptop.png]]
 <center>
 <div className="text-green-500"> Hola mundo!</div>
