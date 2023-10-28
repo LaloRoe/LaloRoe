@@ -11,4 +11,3 @@ showSidebar: false
 **FACTOR** es un proyecto de negocio de servicios educativos enfocado a brindar apoyo académico a estudiantes de secundaria, preparatoria y universidad.
 
 [www.factormna.com](https://factormna.com)
-
