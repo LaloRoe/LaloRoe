@@ -17,11 +17,13 @@ Para crear un nuevo proyecto seguimos los siguiente pasos
 * Le damos nombre, inicia siempre con mayúscula y sin espacios.
 * Finalizar
 
+**PrimerClase.java**
 
-`public class PrimeraClase {`
-`		public static void main(String[] args) {`
-`			// TODO Auto-generated method stub`
-`			System.out.print("Hola mundo");`
-`		}`
-`}`
-
+```
+public class PrimeraClase {
+	public static void main(String[] args) {
+			// TODO Auto-generated method stub
+			System.out.print("Hola mundo");
+	}
+}
+```
