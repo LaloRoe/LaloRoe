@@ -1,7 +1,5 @@
 ---
 title: Primeros pasos en Java
-authors:
-  - Eduardo Ortiz Romero
 showSidebar: true
 ---
 # Crear nuevo proyecto
