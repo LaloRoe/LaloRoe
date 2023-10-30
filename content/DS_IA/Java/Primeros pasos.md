@@ -19,7 +19,7 @@ Para crear un nuevo proyecto seguimos los siguiente pasos
 
 **PrimerClase.java**
 
-```
+```java
 public class PrimeraClase {
 	public static void main(String[] args) {
 			// TODO Auto-generated method stub
