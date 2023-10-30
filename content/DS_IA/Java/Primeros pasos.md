@@ -1,5 +1,5 @@
 ---
-title: Primeros pasos
+title: Primeros pasos en Java
 authors:
   - Eduardo Ortiz Romero
 showSidebar: true
@@ -17,13 +17,11 @@ Para crear un nuevo proyecto seguimos los siguiente pasos
 * Le damos nombre, inicia siempre con mayúscula y sin espacios.
 * Finalizar
 
-<pre>
-public class PrimeraClase {
 
-		public static void main(String[] args) {
-			// TODO Auto-generated method stub
-			System.out.print("Hola mundo");
-		}
-}
-</pre>
+`public class PrimeraClase {`
+`		public static void main(String[] args) {`
+`			// TODO Auto-generated method stub`
+`			System.out.print("Hola mundo");`
+`		}`
+`}`
 
