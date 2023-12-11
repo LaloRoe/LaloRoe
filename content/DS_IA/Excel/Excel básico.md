@@ -125,7 +125,7 @@ Es especialmente útil cuando se necesita transferir grandes cantidades de datos
 ![[Pasted image 20231023225619.png]]
 Esto nos permite poder llamarlo, incluirlo dentro de una función o encontrarlo de una manera más sencilla, lo cual resulta útil cuando trabajamos con mucha información o tablas muy grandes.
 
-En la ficha de Fórmulas, sección Nombres Definidos, tenemos la opción de **Administrador de Nombres**, que nos va a permitir visualizar los Rangos que hemos asignado, el valor, y en qué ámbito está. Justo acá podemos Asignar nuevo rango, modificar y eliminar.
+En la ficha de **Fórmulas**, sección Nombres Definidos, tenemos la opción de **Administrador de Nombres**, que nos va a permitir visualizar los Rangos que hemos asignado, el valor, y en qué ámbito está. Justo acá podemos Asignar nuevo rango, modificar y eliminar.
 
 Igualmente en esa ficha y sección, se muestran las opciones de **Asignar un nombre** (para nombrar el rango), **Utilizar en la fórmula** (para llamar nuestro rango) y **Crear desde la selección** (para poder delimitar nuestro rango en las celdas).
 
@@ -139,6 +139,10 @@ Igualmente en esa ficha y sección, se muestran las opciones de **Asignar un no
 |Columnas|Ctrl + 0||
 |Filas| Ctrl + 9||
 
+Para mostrar de nuevo las columnas o filas ocultas seleccionamos las columnas o filas adyacentes a las ocultas, damos clic derecho y seleccionamos *Mostrar*.
+![[Pasted image 20231209214255.png]]
+Para *ocultar una hoja* damos clic derecho sobre la pestaña de la hoja y seleccionamos ocultar.
+![[Pasted image 20231209214821.png]]
 Para volver a mostrar una hoja oculta, damos clic derecho a cualquier hoja y seleccionamos mostrar
 ![[Pasted image 20231023231945.png]]
 Nos saldrá la lista de páginas ocultas.
@@ -152,4 +156,43 @@ Seleccionar columnas o filas, ir a la ficha de **Datos** en *Esquema*, dar clic 
 Dar configuración
 ![[Pasted image 20231023232818.png]]
 
-Hola
+# Tablas
+
+## Quitar duplicados
+En la pestaña *Diseño de tabla* Damos clic en **Quitar duplicados**
+![[Pasted image 20231210202947.png]]
+Elegimos las columnas en la que queremos que revise los duplicados.
+![[Pasted image 20231210203105.png]]
+## Segmentación de datos
+En la pestaña de *Diseño de tabla* damos clic en **Insertar segmentación de datos**
+![[Pasted image 20231210203356.png]]
+Seleccionamos los elemento que queremos segmentar
+![[Pasted image 20231210203522.png]]
+Para ejemplificar esto seleccionamos  la columna de *type*
+![[Pasted image 20231210213912.png]]
+Si seleccionamos *Movie* saldrán únicamente los datos de este tipo
+![[Pasted image 20231210213955.png]]
+# Ordenar datos
+Primero seleccionamos los datos de nuestra tabla, luego en la pestaña de *Datos* seleccionamos la opción *Ordenar* 
+![[Pasted image 20231210215013.png]]
+Para nuestro ejemplo eligimos Ordenar por *Título*  según *Valores de celda*, si damos clic en *+Agregar nivel* Luego ordenara por *Director* según *Valores de celda*.
+![[Pasted image 20231210215501.png]]
+Nos puede aparecer la siguiente Advertencia ya que en nombre de algunas películas empiezan con un número y no con una letra.
+Las siguientes opciones ordenan considerando la primera columna
+![[Pasted image 20231210220008.png]]
+# Filtros
+En la pestaña *Datos* seleccionamos la opción Filtro.
+![[Pasted image 20231210222601.png]]
+Podemos crear un filtro personalizado dando clic en la flecha dela columna
+![[Pasted image 20231210222718.png]]
+Podemos elegir alguna opción de filtrado como *es igual a*, *no es igual a*, *es mayor que*, etc
+![[Pasted image 20231210223018.png]]
+# Buscar y reemplazar
+En nuestra hoja escribimos *ctrl + b* y nos aparece la ventana de *Buscar y reemplazar*, como ejemplo busquemos a *Guillermo del Toro*
+![[Pasted image 20231210230143.png]]
+En *opciones* podemos elegir la opción 
+* *Dentro de:* - Hoja o Libro
+* *Buscar:* - Por filas o columnas
+* *Buscar en:* - Fórmulas, Valores, Notas, Comentarios
+![[Pasted image 20231210230455.png]]
+Pr reemplazar vamos a la pestaña de *Reemplazar* 
