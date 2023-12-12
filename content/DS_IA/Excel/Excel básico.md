@@ -196,3 +196,71 @@ En *opciones* podemos elegir la opción
 * *Buscar en:* - Fórmulas, Valores, Notas, Comentarios
 ![[Pasted image 20231210230455.png]]
 Pr reemplazar vamos a la pestaña de *Reemplazar* 
+# Fórmulas y su estructura
+
+## Suma
+* =suma(rango)
+Atajo -> Alt + =
+## Contar
+Contar el número de celdas no vacías de un rango.
+* =contara(rango)
+Contar el número de celdas de un rango que contienen un número.
+* =contar(rango)
+## Redondear
+Redondear hacia un múltiplo deseado
+* =redond.mult()
+Redondear hacia el impar más cercano
+* =redondear.impar()
+Redondear hacia el par más cercano
+* =redondear.par()
+Redondear especificando el número de decimales que contenga
+* =redondear()
+Redondear hacia arriba
+* =redondear.mas()
+Redondear hacia abajo
+* redondear.menos()
+## Promedio
+Calcula el promedio de los números de un rango.
+* =promedio(rango)
+Calcula el promedio de los números que cumplen una condición.
+* =promedio.si()
+Calcula el promedio de los números que cumplen con un conjunto de condiciones.
+* =promedio.si.conjunto()
+Calcula el promedio sin considerar las celdas en blanco.
+* =promedioa()
+Valores de la lista de la base de datos con el promedio
+* bdpromedio(Base_de_datos,Nombre_de_campo,Criterios)
+
+## Promedio ponderado
+Se evalúa el producto matricial del rango con los pesos
+=sumaproducto(rango,pesos)/contar(rango1)
+# Subtotal
+Aplica la función solo a los elementos filtrados
+* =subtotales(función, rango)
+# Fórmulas de fecha
+* =dia(num_serie)
+* =mes(num_serie)
+* =año(num_serie)
+* =diasem(num_serie)
+* =fecha(año,mes,dia)
+* =hoy()
+# Fórmulas de texto
+Escribe el texto como nombre propio, es decir, inicia con mayúsculas
+* =nomprop()
+Quitar los espacios al principio y al final
+* =espacios()
+Al seleccionar un texto decidimos qué parte extraer para llevar a una celda nueva
+* =extraer(texto,posición_inicial,num_caracteres)
+El formato va entre comillas
+* =texto(valor, formato)
+Concatenar textos
+* =concat(texto1,texto2)
+* =texto1&texto2
+# Fórmula aleatorio
+Número aleatorio entre 0 y 1
+* =aleatorio()
+Número aleatorio entre min y max
+* =aleatorio.entre(min,max)
+# Fórmulas lógicas
+* y()
+* o()
