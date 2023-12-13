@@ -95,4 +95,21 @@ para ejemplificar calculemos el costo de los vienes vendidos **COGS**, se calcul
 ![[Pasted image 20231212183427.png]]
 agrega la columna de *Suma de COGS*
 ![[Pasted image 20231212183737.png]]
-# Tipos de gráficos
+# Gráficos dinámicos
+Seleccionamos los datos, luego vamos a la ficha de *Insertar* y en el apartado de *Gráficos* podemos encontrar la opción *Gráfico dinámico*
+![[Pasted image 20231213002712.png]]
+Nos da la siguiente ventana, se recomienda crear la gráfica dinámica en una nueva hoja de cálculo
+![[Pasted image 20231213002811.png]]
+para nuestro ejemplo no vamos a analizar varias tablas
+![[Pasted image 20231213003021.png]]
+Elegimos como categoría el nombre de los vendedores y los valores de las ventas de enero y febrero, obtenemos lo siguiente
+![[Pasted image 20231213003317.png]]
+En los botones de la gráfica podemos filtrar la información, por ejemplo por nombre de vendedor
+![[Pasted image 20231213003407.png]]
+también nos podemos ir a la ficha de *Análisis de Gráfico dinámico* para *Insertar una segmentación de datos* 
+![[Pasted image 20231213003551.png]]
+Seleccionamos filtrar por *Nombre* y nos da la siguiente ventana con el nombre de los vendedores, al seleccionar uno automáticamente filtrará la tabla y la gráfica
+![[Pasted image 20231213003806.png]]
+también podemos *Actualizar* y *Cambiar el origen de datos*
+![[Pasted image 20231213003906.png]]
+
