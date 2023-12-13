@@ -86,3 +86,13 @@ podemos ver al mismo tiempo el *% de total de columnas* y la *Suma* de *Ventas t
 Podemos agregar también un filtro, por ejemplo por *Utilidad*, nos aparece una celda de filtros
 ![[Pasted image 20231212173659.png]]
 Si queremos dar un diseño a nuestra tabla dinámica, nos dirigimos a la ficha de *Diseño* 
+# Campos calculados
+Seleccionamos nuestra tabla dinámica, en la ficha de *Analizar tabla dinámica* buscamos la sección *Cálculos*, en *Campos, elementos y conjuntos* seleccionamos *Campo calculado* 
+![[Pasted image 20231212182933.png]]
+nos da la ventana *Insertar campo calculado*
+![[Pasted image 20231212183041.png]]
+para ejemplificar calculemos el costo de los vienes vendidos **COGS**, se calcula como las *Ventas totales* menos la *Utilidad*
+![[Pasted image 20231212183427.png]]
+agrega la columna de *Suma de COGS*
+![[Pasted image 20231212183737.png]]
+# Tipos de gráficos
