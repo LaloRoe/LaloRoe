@@ -6,7 +6,7 @@ showSidebar: false
 ---
 # Perfil
 
-![[perfil_animation.png]]
+
 
   
 
