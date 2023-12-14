@@ -113,3 +113,4 @@ Seleccionamos filtrar por *Nombre* y nos da la siguiente ventana con el nombre d
 también podemos *Actualizar* y *Cambiar el origen de datos*
 ![[Pasted image 20231213003906.png]]
 
+
