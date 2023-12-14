@@ -50,3 +50,5 @@ public class PrimeraClase {
 int salario;
 salario = 7;
 ```
+
+
