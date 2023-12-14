@@ -6,4 +6,4 @@ showSidebar: false
 showToc: false
 ---
 
----
+![[lalo_laptop.png]]
