@@ -181,10 +181,4 @@ $$\displaystyle\lim_{x\to-\infty}f'(x)=0.$$
 
 ![[dgauss.png]]
 
-<script src="https://utteranc.es/client.js"
-        repo="LaloRoe/LaloRoe"
-        issue-term="/DS_IA/Funciones%20de%20Activación"
-        theme="dark-blue"
-        crossorigin="anonymous"
-        async>
-</script>
+
