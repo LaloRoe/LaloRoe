@@ -55,4 +55,4 @@ El tercer elemento muy importante es cómo le vas a cobrar a este cliente. Al te
 
 Este elemento es fundamental porque si no tienes cómo cobrarle tu idea de negocio no funciona.
 
-Ahora, tienes un reto. Descarga el formato de [Lean Canvas](https://docs.google.com/spreadsheets/d/1P03445aUsIOXJ6GT9shQRQlGqY2e3a7C/edit?amp;ouid=102594316758562758267&rtpof=true&sd=true#gid=199619000) y en la sección del lado derecho encontrarás el cliente, en el lado izquierdo el problema y abajo está cómo le vas a cobrar. Específica quién es el cliente lo más detallado posible, cuál es el problema que quieres resolverle y cómo le vas a cobrar.
+Ahora, tienes un reto. Descarga el formato de [Lean Canvas](https://docs.google.com/spreadsheets/d/1P03445aUsIOXJ6GT9shQRQlGqY2e3a7C/edit?amp;ouid=102594316758562758267&rtpof=true&sd=true#gid=199619000) y en la sección del lado derecho encontrarás el cliente, en el lado izquierdo el problema y abajo está cómo le vas a cobrar. Específica quién es el cliente lo más detallado posible, cuál es el problema que quieres resolverle y cómo le vas a cobrar
