@@ -9,7 +9,3 @@ showSidebar: true
 Aquí puedes encontrar algunas de **mis notas** de las áreas de estudio que más me apasionan de forma profesional.
 ## Temas
 
-* [**Matemáticas**](/matematicas)
-* [**Ciencia de Datos & Machine Learning**](\DS_IA)
-* [**Negocios**](\negocios)
-
