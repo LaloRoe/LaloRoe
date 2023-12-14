@@ -120,3 +120,4 @@ En la ficha de **Revisar** en la sección de *Revisión*
 
 En la ficha **Revisar** en la sección *Proteger* encontramos
 ![[Pasted image 20231023202630.png]]
+
