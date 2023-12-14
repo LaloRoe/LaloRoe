@@ -5,4 +5,3 @@ authors:
   - Eduardo Ortiz Romero
 showSidebar: true
 ---
-Hola
