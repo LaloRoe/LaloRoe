@@ -37,33 +37,33 @@ showSidebar: true
 
 ## Ver salto de página
 
-![[Pasted image 20231022010954.png]]
+![[676767.png]]
 ## Diseño de página
 
-![[Pasted image 20231022011123.png]]
+![[4354.png]]
 ## Congelar paneles
 
 ### Inmovilizar paneles
 
- ![[Pasted image 20231022012543.png]]
+ ![[6546.png]]
  
 ¿Qué ocurre? Inmoviliza el panel superior izquierdo a la celda seleccionada.
 
-![[Pasted image 20231022012659.png]]
+![[5536.png]]
 
 ### Inmovilizar fila superior
 
-![[Pasted image 20231022012754.png]]
+![[545t.png]]
 
 Inmoviliza únicamente la fila superior (la 1)
 
 ### Inmovilizar primera columna
 
-![[Pasted image 20231022013015.png]]
+![[54y54.png]]
 
 Inmoviliza únicamente la primera columna.
 
-![[Pasted image 20231022013043.png]]
+![[45y54.png]]
 
 # Formato de celdas
 
@@ -71,24 +71,24 @@ Todo el formato se encuentra en la ficha de Inicio
 ## Ajustar texto
 
 Para ajustar el texto a un solo renglón
-![[Pasted image 20231023193904.png]]
-Seleccionamos la celda y damos damos clic en Ajustar texto ![[Pasted image 20231023193943.png]]
+![[54y5445.png]]
+Seleccionamos la celda y damos damos clic en Ajustar texto ![[5y4.png]]
 El resultado es 
-![[Pasted image 20231023193958.png]]
+![[454.png]]
 ## Combinar o separar celdas
 
-![[Pasted image 20231023194811.png]]
+![[3455.png]]
 Usemos el siguiente ejemplo
-![[Pasted image 20231023194844.png]]
+![[453.png]]
 ### **Combinar y centrar:**
-![[Pasted image 20231023194910.png]]
+![[435345.png]]
 ### **Combinar horizontalmente:**
-![[Pasted image 20231023194946.png]]
+![[43535.png]]
 ### **Combinar celdas:**
-![[Pasted image 20231023195018.png]]
+![[6666y.png]]
 
 ## Formato de número
-![[Pasted image 20231023195256.png]]
+![[y455.png]]
 
 # Comentarios y Notas
 
@@ -96,28 +96,27 @@ Vamos a la Ficha **Revisar**
 
 ## Comentarios
 
-Primero seleccionamos las celdas que queremos comentar, luego damos seleccionamos **Nuevo comentario** ![[Pasted image 20231023200709.png]]
-Se abre una ventana para hacer el comentario ![[Pasted image 20231023200734.png]]
-Tenemos las opciones ![[Pasted image 20231023200934.png]]
+Primero seleccionamos las celdas que queremos comentar, luego damos seleccionamos **Nuevo comentario** ![[5y5yey.png]]
+Se abre una ventana para hacer el comentario ![[grgrgrdg.png]]
+Tenemos las opciones ![[sebsbsbsebesb.png]]
 Además existen otras opciones
-![[Pasted image 20231023201007.png]]
+![[jttrter.png]]
 Por ejemplo, **Mostrar comentarios** nos despliega todos los comentarios en una barra a la derecha
-![[Pasted image 20231023201101.png]]
+![[ndr.png]]
 
 ## Notas
  Seleccionamos la celda y damos clic en **Nueva nota** 
- ![[Pasted image 20231023201841.png]]
+ ![[20231023201841.png]]
  Podemos convertir nota en comentarios
- ![[Pasted image 20231023202019.png]]
+ ![[45y45y54y54y.png]]
 # Estadísticas del libro y Ortografía
 
 En la ficha de **Revisar** en la sección de *Revisión*
-![[Pasted image 20231023202235.png]]
+![[vesvesvesv.png]]
 ## Estadísticas del libro
-![[Pasted image 20231023202257.png]]
+![[fesfesf.png]]
 
 # Proteger libro y hoja
 
 En la ficha **Revisar** en la sección *Proteger* encontramos
-![[Pasted image 20231023202630.png]]
-
+![[brdbrdbrdbrd.png]]
