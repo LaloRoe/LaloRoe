@@ -264,3 +264,4 @@ Número aleatorio entre min y max
 # Fórmulas lógicas
 * y()
 * o()
+* 
