@@ -6,20 +6,18 @@ showSidebar: false
 ---
 # Perfil
 
-
-
+![[perfil_animation.png]]
   
-
 ---
 
 Hola!
 
-Mi nombre es Eduardo O.R.  
+Mi nombre es Eduardo Ortiz Romero
 
 * **Contacto**: mrlalo_roe@outlook.com
 
 * **Estudios**
-	* Egresado de la Lic. en Física y Matemáticas de la [ESFM](https://www.esfm.ipn.mx) del IPN.
+	* Lic. en Física y Matemáticas, [*ESFM*](https://www.esfm.ipn.mx) del **IPN**.
   
 ---
 ---
