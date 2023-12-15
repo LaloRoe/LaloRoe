@@ -28,7 +28,7 @@ Hace algunos años la herramienta más utilizada era el plan de negocios, el cua
 
 Para inicios de este siglo, como resultado de la revolución de los emprendimientos, surgió el **Business Model Canvas** que es muy bueno para plasmar una idea de negocio de manera digerible. A su vez provee mayor discusión y análisis, pero es más apropiado para **negocios que ya existen**.
 
-![[Pasted image 20231018001027.png]]
+![[1.png]]
 En este cuadro debes registrar los detalles de tu idea referida al problema, solución, propuesta de valor, ventaja, clientes, métricas, canales, costos e ingresos.
 
 En este momento nos vamos a concentrar en los tres primeros elementos de esta herramienta: el cliente, su problema y cómo les vas a cobrar.
