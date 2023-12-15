@@ -8,7 +8,7 @@ showSidebar: true
 # Atajos
 
 ## Moverse usando el teclado
-![[Pasted image 20231018062840.png]]
+![[2.png]]
 ## Más atajos
 
 |  Nombre | Atajo en Inglés  |  Atajo en Español |  Atajo en Mac |
@@ -82,7 +82,7 @@ showSidebar: true
 |Mover a la siguiente de hoja|Ctrl + RePag|Ctrl + AvPag||
 |Mover a la hoja anterior|Ctrl + AvPag|Ctrl + RePag||
 ## Teclas de Función
-![[Pasted image 20231018063231.png]]
+![[4.png]]
 ## Visualizar atajos
 
 En Excel presionamos la tecla 
@@ -91,7 +91,7 @@ En Excel presionamos la tecla
 Alt
 </pre>
 
-![[Pasted image 20231018063544.png]]
+![[6.png]]
 # Importar datos a Excel
 
 **Paso 1:** Abre Microsoft Excel en tu computadora y crea un nuevo libro de trabajo o abre uno existente donde desees importar los datos.
@@ -122,14 +122,14 @@ Es especialmente útil cuando se necesita transferir grandes cantidades de datos
 # Rangos
 
 **Los rangos** son un conjunto de celdas que podemos seleccionar y designarle un nombre en nuestro documento de Excel.
-![[Pasted image 20231023225619.png]]
+![[hrdhdr.png]]
 Esto nos permite poder llamarlo, incluirlo dentro de una función o encontrarlo de una manera más sencilla, lo cual resulta útil cuando trabajamos con mucha información o tablas muy grandes.
 
 En la ficha de **Fórmulas**, sección Nombres Definidos, tenemos la opción de **Administrador de Nombres**, que nos va a permitir visualizar los Rangos que hemos asignado, el valor, y en qué ámbito está. Justo acá podemos Asignar nuevo rango, modificar y eliminar.
 
 Igualmente en esa ficha y sección, se muestran las opciones de **Asignar un nombre** (para nombrar el rango), **Utilizar en la fórmula** (para llamar nuestro rango) y **Crear desde la selección** (para poder delimitar nuestro rango en las celdas).
 
-![[Pasted image 20231018140053.png]]
+![[8.png]]
 # Ocultar y mostrar columnas, filas y hojas
 
 ## Atajos
@@ -140,61 +140,61 @@ Igualmente en esa ficha y sección, se muestran las opciones de **Asignar un no
 |Filas| Ctrl + 9||
 
 Para mostrar de nuevo las columnas o filas ocultas seleccionamos las columnas o filas adyacentes a las ocultas, damos clic derecho y seleccionamos *Mostrar*.
-![[Pasted image 20231209214255.png]]
+![[grgrdgrdhdhrdh.png]]
 Para *ocultar una hoja* damos clic derecho sobre la pestaña de la hoja y seleccionamos ocultar.
-![[Pasted image 20231209214821.png]]
+![[hethethten.png]]
 Para volver a mostrar una hoja oculta, damos clic derecho a cualquier hoja y seleccionamos mostrar
-![[Pasted image 20231023231945.png]]
+![[ddsfbfdbfd.png]]
 Nos saldrá la lista de páginas ocultas.
-![[Pasted image 20231023232018.png]]
+![[grdgrdgrdg.png]]
 
 # Agrupar y desagrupar filas y columnas
 
 Seleccionar columnas o filas, ir a la ficha de **Datos** en *Esquema*, dar clic en *Agrupar*
 
-![[Pasted image 20231023232517.png]]
+![[535h3h.png]]
 Dar configuración
-![[Pasted image 20231023232818.png]]
+![[brbrbrb.png]]
 
 # Tablas
 
 ## Quitar duplicados
 En la pestaña *Diseño de tabla* Damos clic en **Quitar duplicados**
-![[Pasted image 20231210202947.png]]
+![[vsvsvsev.png]]
 Elegimos las columnas en la que queremos que revise los duplicados.
-![[Pasted image 20231210203105.png]]
+![[hdrhrdn.png]]
 ## Segmentación de datos
 En la pestaña de *Diseño de tabla* damos clic en **Insertar segmentación de datos**
-![[Pasted image 20231210203356.png]]
+![[hrdhrdhdrhrd.png]]
 Seleccionamos los elemento que queremos segmentar
-![[Pasted image 20231210203522.png]]
+![[t34t43t43t.png]]
 Para ejemplificar esto seleccionamos  la columna de *type*
-![[Pasted image 20231210213912.png]]
+![[hdrrreerg.png]]
 Si seleccionamos *Movie* saldrán únicamente los datos de este tipo
-![[Pasted image 20231210213955.png]]
+![[bdrbrdbrdbdr.png]]
 # Ordenar datos
 Primero seleccionamos los datos de nuestra tabla, luego en la pestaña de *Datos* seleccionamos la opción *Ordenar* 
-![[Pasted image 20231210215013.png]]
+![[htheth.png]]
 Para nuestro ejemplo eligimos Ordenar por *Título*  según *Valores de celda*, si damos clic en *+Agregar nivel* Luego ordenara por *Director* según *Valores de celda*.
-![[Pasted image 20231210215501.png]]
+![[trtretret.png]]
 Nos puede aparecer la siguiente Advertencia ya que en nombre de algunas películas empiezan con un número y no con una letra.
 Las siguientes opciones ordenan considerando la primera columna
-![[Pasted image 20231210220008.png]]
+![[hrehrehreh.png]]
 # Filtros
 En la pestaña *Datos* seleccionamos la opción Filtro.
-![[Pasted image 20231210222601.png]]
+![[reherherherh.png]]
 Podemos crear un filtro personalizado dando clic en la flecha dela columna
-![[Pasted image 20231210222718.png]]
+![[hdrhdrhdrhdrhrdhdrh.png]]
 Podemos elegir alguna opción de filtrado como *es igual a*, *no es igual a*, *es mayor que*, etc
-![[Pasted image 20231210223018.png]]
+![[ndtntdntdndtn.png]]
 # Buscar y reemplazar
 En nuestra hoja escribimos *ctrl + b* y nos aparece la ventana de *Buscar y reemplazar*, como ejemplo busquemos a *Guillermo del Toro*
-![[Pasted image 20231210230143.png]]
+![[hsrhsrh.png]]
 En *opciones* podemos elegir la opción 
 * *Dentro de:* - Hoja o Libro
 * *Buscar:* - Por filas o columnas
 * *Buscar en:* - Fórmulas, Valores, Notas, Comentarios
-![[Pasted image 20231210230455.png]]
+![[grgrdg.png]]
 Pr reemplazar vamos a la pestaña de *Reemplazar* 
 # Fórmulas y su estructura
 
