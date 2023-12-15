@@ -6,5 +6,5 @@ showSidebar: false
 showToc: false
 ---
 
-![[lalo_laptop.png]]
+![[lalo_lap.png]]
 Hola, mi nombre es [**Eduardo**](/people/laloroe), bienvenido a mi Portafolio Web. Aquí puedes encontrar algunos [Proyectos](\proyectos) 
