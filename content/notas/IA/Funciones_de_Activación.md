@@ -179,6 +179,4 @@ $$\displaystyle\lim_{x\to\infty}f'(x)=0$$
 
 $$\displaystyle\lim_{x\to-\infty}f'(x)=0.$$
 
-![[dgauss.png]]
-
-
+![[dgauss1.png]]
