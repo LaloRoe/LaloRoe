@@ -21,27 +21,50 @@ Cada examen contiene la siguiente información.
 	* $A$, $B$, $C$, $D$, $E$, etc
 * Respuestas 
 	* Cada pregunta contiene $4$ opciones de respuesta ($A$, $B$, $C$, $D$), puede seleccionar solo una.
-## Procesamiento de Datos
+## Diagrama Entidad-Relación
+
 ```mermaid
 
-classDiagram
+erDiagram
 
-Campo --> Excel
-Excel --> Excel_a_Word : Por enlaces
-Excel --> Excel_o_PowerBI
-
-Campo : Obtener datos
-
-Excel : Capturar datos
-Excel : Evaluación
-Excel : Resultados
-
-Excel_a_Word : Generar e imprimir 
-Excel_a_Word : los reportes individuales
-Excel_a_Word : de cada alumno
-
-Excel_o_PowerBI : Análisis de datos
+Alumno ||--o{ Respuestas-del-alumno : Genera
+Alumno{
+		int id_alumno PK
+		string Nombre-del-alumno
+		string Sexo
+		string Nombre-de-la-escuela
+		string Grupo
+		string Turno
+}
+Escuela ||--o{ Alumno : Pertenece
+Escuela{
+		int id_escuela PK
+		string Nombre-de-la-escuela
+		string Grupos
+		string Turnos
+}
+Respuestas-del-alumno ||--|| Resultados : Generan
+Respuestas-del-alumno{
+		int id_respuesta PK
+		string Nombre-del-alumno
+		int Numero-de-examen
+		string Respuestas-del-alumno
+}
+Resultados{
+		int id_resultados PK
+		string Nombre-del-alumno
+		int Numero-de-examen
+		int Evaluaciones
+}
+Respuestas-correctas ||--|{ Respuestas-del-alumno : Evaluan
+Respuestas-correctas{
+		int id_respuestas_correcta PK
+		int Numero-de-examen
+		string Respuestas-correctas
+}
 
 ```
+
 ## Excel
+
 
