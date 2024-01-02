@@ -112,3 +112,68 @@ Seleccionamos filtrar por *Nombre* y nos da la siguiente ventana con el nombre d
 ![[wtwtwtw.png]]
 también podemos *Actualizar* y *Cambiar el origen de datos*
 ![[tertret.png]]
+# Fórmulas condicionales
+
+``` Excel
+=SI(prueba_lógica, [valor_si_verdadero],[valor_si_falso])
+```
+```Excel
+=SI.ERROR(valor,valor_si_error)
+```
+```Excel
+=SI.CONJUNTO(prueba_lógica1,valor_si_verdadero1,...)
+```
+```Excel
+=CONTAR.SI(rango,criterio)
+```
+
+```Excel
+=SUMA(número1,[número2], ...)
+```
+```Excel
+=SUMAR.SI(rango,criterio,[rango_suma])
+```
+```Excel
+=SUMAR.SI.CONJUNTO(rango_suma,rango_criterios1,criterio1, ...)
+```
+
+## Fórmulas lógicas
+
+
+
+```Excel
+=Y(valor_lógico1,valor_lógico2,...)
+```
+```Excel
+=O(valor_lógico1,valor_lógico2,...)
+```
+```Excel
+=NO(valor_lógico)
+```
+```Excel
+=VERDADERO()
+```
+```Excel
+=FALSO()
+```
+```Excel
+=IGUAL()
+```
+```Excel
+=IGUAL(texto1,texto2)
+```
+# BuscarV y BuscarH
+
+```Excel
+=BUSCARV(valor_buscado,matriz_tabla,indicador_columnas,[rango])
+```
+# Fórmulas de Índice y Coincidir
+
+```Excel
+=INDICE(matriz, núm_fila, [núm_columna])
+=INDICE(ref, núm_fila, [núm_columna], [núm_área])
+```
+
+```Excel
+=COINCIDIR(valor_buscado, matriz_buscada, [tipo_de_coincidencia])
+```
