@@ -177,3 +177,7 @@ también podemos *Actualizar* y *Cambiar el origen de datos*
 ```Excel
 =COINCIDIR(valor_buscado, matriz_buscada, [tipo_de_coincidencia])
 ```
+# Fórmula anidada de índice + coincidir
+```Excel
+=INDICE(matriz, COINCIDIR(valor_buscado_1,matriz_columna,0),COINCIDIR(valor_buscado_2,matriz_fila,0))
+```
