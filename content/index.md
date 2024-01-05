@@ -1,5 +1,5 @@
 ---
-title: Portafolio de Trabajo 💼👨‍💻
+title: Portafolio de Proyectos 💼👨‍💻
 date: 2022-11-29
 description: En este blog publico temas sobre mi vida profesional.
 showSidebar: false
