@@ -8,3 +8,7 @@ showToc: false
 
 ![[lalo_lap.png]]
 Hola, mi nombre es [**Eduardo**](/people/laloroe), bienvenido a mi Portafolio Web. Aquí puedes encontrar algunos [Proyectos](\proyectos) 
+
+---
+
+![[enconstruccion_4.gif]]
