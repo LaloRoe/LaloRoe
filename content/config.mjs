@@ -20,7 +20,7 @@ const config = {
     // url to author website
     //domain: "https://john.app/",
     // links to the pages you want to link to in the navbar
-    navLinks: [{ href: "/people/laloroe", name: "Autor" },{ href: "/Mis%20notas", name: "Mis Notas"},{ href: "/proyectos", name: "Proyectos" },{ href: "/blog", name: "Blog" }],
+    navLinks: [{ href: "/people/laloroe", name: "Autor" },{ href: "/notas/Mis%20notas", name: "Mis Notas"},{ href: "/proyectos", name: "Proyectos" },{ href: "/blog", name: "Blog" }],
     navBarTitle: {
     text: "Mis Notas",
     //logo: "/assets/your-logo.svg", // optional
